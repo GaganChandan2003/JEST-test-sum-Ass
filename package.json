@@ -1,0 +1,11 @@
+{
+  "name": "testasssum",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum_arguments.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
